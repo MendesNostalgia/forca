@@ -1,0 +1,13 @@
+programacao:Linguagem usada para desenvolvimento de software
+computador:Máquina que executa cálculos e processos
+internet:Rede que conecta computadores em escala global
+tecnologia:Área que envolve o uso de conhecimentos científicos e ferramentas avançadas
+software:Conjunto de instruções que um computador segue para realizar tarefas
+hardware:Parte física de um computador, como monitor e teclado
+algoritmo:Sequência de passos para resolver um problema ou realizar uma tarefa
+internet:Rede global que conecta computadores e permite comunicação entre eles
+programacao:Processo de escrever código para criar software
+dados:Informações que podem ser processadas por um computador
+computador:Máquina que processa dados e realiza tarefas específicas
+rede:Conexão entre computadores para compartilhar informações e recursos
+criptografia:Técnica para proteger informações, tornando-as ilegíveis para não autorizados
